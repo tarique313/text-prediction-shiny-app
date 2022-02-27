@@ -30,7 +30,7 @@ ui <- fluidPage(
       h5("4. A question mark means no prediction, typically due to mis-spelling"),
       h5("5. Additional tabs show plots of the top ngrams in the dataset"),
       br(),
-      a("Source Code", href = "https://github.com/mark-blackmore/JHU-Data-Science-Capstone/tree/master/ngram_match")
+      a("Source Code", href = "https://github.com/tarique313/text-prediction-shiny-app")
     ),
     
     # Show a plot of the generated distribution
